@@ -25,7 +25,7 @@
 
 ----
 ### :notes: Spotify Playing :notes:
-[![Spotify](https://spotify-now-playing-jdgq9sxvl-4lr0d7.vercel.app/)](https://open.spotify.com/user/22adehx4nsa3lsjxutxtwmhma)
+[![Spotify](https://22adehx4nsa3lsjxutxtwmhma.vercel.app/api/spotify)](https://open.spotify.com/user/22adehx4nsa3lsjxutxtwmhma)
 
 <!-- LINKS SECTION -->
 [website]: https://4lr0d7.github.io/
