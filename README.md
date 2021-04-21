@@ -13,6 +13,7 @@
 <br>
 
 -----
+### :snowflake: Aboute me :snowflake:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -23,11 +24,12 @@
 - ⚡ Fun fact: ...
 
 ----
-### :notes: Spotify :notes:
-
+### :notes: Spotify Playing :notes:
+[![Spotify](https://spotify-now-playing-jdgq9sxvl-4lr0d7.vercel.app/)](https://open.spotify.com/user/22adehx4nsa3lsjxutxtwmhma)
 
 <!-- LINKS SECTION -->
 [website]: https://4lr0d7.github.io/
 [twitter]: https://twitter.com/4lr0d7_
 [instagram]: https://www.instagram.com/zaniev_/
 [linkedin]: https://www.linkedin.com/in/alan-%C3%A1lvarez-nieves-70a7331bb/
+
