@@ -25,8 +25,7 @@
 
 ----
 ### :notes: Spotify Playing :notes:
-[![Spotify](https://22adehx4nsa3lsjxutxtwmhma.vercel.app/api/spotify)](https://open.spotify.com/user/22adehx4nsa3lsjxutxtwmhma)
-
+[<img src = "https://spotify-now-playing-4lr0d7.vercel.app/api/spotify-playing" alt = "4lr0d7 | Spotify Now Playing" width = "350" />](https://open.spotify.com/user/22adehx4nsa3lsjxutxtwmhma)
 <!-- LINKS SECTION -->
 [website]: https://4lr0d7.github.io/
 [twitter]: https://twitter.com/4lr0d7_
