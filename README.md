@@ -1,5 +1,5 @@
 <!-- **4lr0d7/4lr0d7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-### :fire: Hi i'm Alan - aka [4LR0D7 | ZANIEV][website] :fire:
+### :fire: Hi i'm Alan - aka [4LR0D7 | ZAVNIEX][website] :fire:
 -------------
 ### A Software Engineer Student from Querétaro, MX
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4lr0d7&show_icons=true&theme=radical)
