@@ -2,7 +2,7 @@
 ### :fire: Hi i'm Alan - aka [4LR0D7 | ZAVNIEX][website] :fire:
 -------------
 ### A Software Engineer Student from Querétaro, MX
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4lr0d7&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanRAN7&show_icons=true&theme=radical)
 -----
 ### :umbrella: Connect with me :umbrella:
 [<img align="left" alt="4lr0d7.github.io" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/2786/2786282.svg?token=exp=1619045021~hmac=de73e49b2d9bad8a1f3da2ff4f3f60d7" />][website]
