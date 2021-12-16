@@ -1,5 +1,6 @@
 <!-- **4lr0d7/4lr0d7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ### :fire: Hi i'm Alan - aka [4LR0D7 | ZAVNIEX][website] :fire:
+![](https://komarev.com/ghpvc/?username=AlanRAN7&color=blueviolet)
 -------------
 ### A Software Engineer Student from Querétaro, MX
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanRAN7&show_icons=true&theme=radical)
@@ -12,7 +13,7 @@
 <br>
 
 -----
-### :snowflake: Aboute me :snowflake:
+### :snowflake: About me :snowflake:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
