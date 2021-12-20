@@ -1,34 +1,37 @@
 <!-- **4lr0d7/4lr0d7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-### :fire: Hi i'm Alan - aka [4LR0D7 | ZAVNIEX][website] :fire:
-![](https://komarev.com/ghpvc/?username=AlanRAN7&color=blueviolet)
--------------
+<h1 align="center">🤠🤓Hi i'm Alan🤓🤠</h1>
+
+-----
+
 ### A Software Engineer Student from Querétaro, MX
+
+<div align= "center">![](https://komarev.com/ghpvc/?username=AlanRAN7&color=blueviolet)</div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanRAN7&show_icons=true&theme=radical)
 -----
+-----
+
 ### :umbrella: Connect with me :umbrella:
-[<img align="left" alt="4lr0d7.github.io" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/2786/2786282.svg?token=exp=1619045021~hmac=de73e49b2d9bad8a1f3da2ff4f3f60d7" />][website]
-[<img align="left" alt="4lr0d7 | Twitter" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384174.svg?token=exp=1619044871~hmac=7491351fd2a5b907d88abbac4ed92adf" />][twitter]
-[<img align="left" alt="4lr0d7 | LinkedIn" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384171.svg?token=exp=1619044918~hmac=6b0fb2d3db1c2e128e5f7f7bd92bc1be" />][linkedin]
-[<img align="left" alt="4lr0d7 | Instagram" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384172.svg?token=exp=1619044959~hmac=92a74d611140886d5b642b1458f58f2f" />][instagram]
+- [Website 🌐][website]
+- [Twitter 🐦][twitter]
+- [LinkedIn :computer:][linkedin]
+- [Instagram :camera:][instagram]
 <br>
 
 -----
 ### :snowflake: About me :snowflake:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on: The Walking Dead Universe API
+- 🌱 I’m currently learning: Javascript Vanilla, React Js & Node Js
+- 💬 Languages: Spanish (native), English (B1 [in constant study])
+- 📫 How to reach me: On LinkedIn :) or alan.alvnie@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love The Walking Dead Universe, Bring Me The Horizon, Fall Out Boy, Sigrid and Café Infinito Podcast.
 
 ----
 ### :notes: Spotify Playing :notes:
 [<img src = "https://spotify-now-playing-4lr0d7.vercel.app/api/spotify" alt = "4lr0d7 | Spotify Now Playing" width = "350" />](https://open.spotify.com/user/22adehx4nsa3lsjxutxtwmhma)
 <!-- LINKS SECTION -->
-[website]: https://4lr0d7.github.io/
-[twitter]: https://twitter.com/4lr0d7_
+[website]: https://alanran7.github.io/
+[twitter]: https://twitter.com/z4vn13x
 [instagram]: https://www.instagram.com/zaniev_/
 [linkedin]: https://www.linkedin.com/in/alan-%C3%A1lvarez-nieves-70a7331bb/
 
