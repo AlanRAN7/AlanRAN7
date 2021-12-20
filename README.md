@@ -1,11 +1,9 @@
 <!-- **4lr0d7/4lr0d7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <h1 align="center">🤠🤓Hi i'm Alan🤓🤠</h1>
 
------
-
 ### A Software Engineer Student from Querétaro, MX
-
-<div align= "center">![](https://komarev.com/ghpvc/?username=AlanRAN7&color=blueviolet)</div>
+![](https://komarev.com/ghpvc/?username=AlanRAN7&color=blueviolet)
+-----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanRAN7&show_icons=true&theme=radical)
 -----
 -----
