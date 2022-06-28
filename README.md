@@ -18,11 +18,11 @@
 <a href = "https://github.com/AlanRAN7" title = "Github"> <img  src= "https://cdn-icons-png.flaticon.com/512/25/25657.png"style = "height: 50px; width: 50px; margin-left: 30px;"/></a>
 </div>
 <hr>
-### :snowflake: About me :snowflake:
+<h3> ❄ About me ❄</h3>
 <div align = "center">
-
   <img src="https://komarev.com/ghpvc/?username=AlanRAN7&style=for-the-badge&color=C72C41" alt=""/>
 </div>
+
 ```JS
 const basic_info = {
     pronouns: "He / Him",
@@ -35,12 +35,13 @@ const basic_info = {
     favorite_podcast: "Café Infinito",
 }
 ```
-<h4>Future Projects (In Spanish Language):</h4>
+<h4>Future Projects (In Spanish Language)</h4>
 <ul>
     <li>Youtube Channel - <a href = "https://youtube.com/channel/UCNLchiI0VAz9SX_RFXLmvRg" style = "">Zavniex</a>: A channel about critics of the pop culture and information about horror movies and The Walking Dead Universe (short & long videos)</li>
     <li>Youtube Channel - <a href = "https://youtube.com/channel/UCncMqcMYKxTphd5P0C8_LSw" style = "">Equinox or ZavniexDev</a>: A channel about Web Development and UI Design (mainly shorts)</li>
 </ul>
 <h3>📱 Languages & Tools: Sorted by JavaScript 📱</h3>
+
 ```JS
 const AlanRAN7 = {
     languages: ["HTML", "CSS", "Javascript", "Java", "C#", "Python"],
@@ -52,6 +53,7 @@ const AlanRAN7 = {
     design: ["Figma", "Adobe XD","Illustrator (basic)", "Photoshop (basic)", "InDesign (basic)"],
 }
 ```
+
 <h4>Languages</h4>
 <div align = "center">
 <img src = "https://cdn-icons-png.flaticon.com/512/174/174854.png" style = "height: 50px; width: 50px;"/>
