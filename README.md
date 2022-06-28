@@ -113,6 +113,9 @@ const AlanRAN7 = {
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 <hr>
 <h3>🎶 Spotify Playing 🎶</h3>
 
