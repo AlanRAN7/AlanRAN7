@@ -1,8 +1,9 @@
 <!-- **4lr0d7/4lr0d7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <h1 align="center">🌞Hello, I am Alan Álvarez!🌞 <br>I'm glad you find me🎉</h1>
 <hr>
+<div align = "center">
 <h2>Software Engineer Student 💻 | UI Designer 🎨| Querétaro 🇲🇽 | Music Lover 🎶</h2> 
-<hr>
+</div>
 <h3>📸 Connect with me 📸</h3>
 <div align = "center">
 <a href = "mailto:alan.alvnie@gmail.com" title = "Gmail"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" style="height: 50px; width: 50px;"></a>
