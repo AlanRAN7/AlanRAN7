@@ -2,7 +2,6 @@
 <h1 align="center">🌞Hello, I am Alan Álvarez!🌞 <br>I'm glad you find me🎉</h1>
 <hr>
 <h2>Software Engineer Student 💻 | UI Designer 🎨| Querétaro 🇲🇽 | Music Lover 🎶</h2> 
-<!-- ![](https://komarev.com/ghpvc/?username=AlanRAN7&color=blueviolet) -->
 <hr>
 <h3>📸 Connect with me 📸</h3>
 <div align = "center">
