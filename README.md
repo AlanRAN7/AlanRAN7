@@ -106,9 +106,12 @@ const AlanRAN7 = {
 <img src = "https://cdn-icons-png.flaticon.com/512/5968/5968482.png" style = "height: 50px; width: 50px; margin-left: 35px"/>
 </div>
 <hr>
+
 <h2>📈 Github Stats 📉</h2>
 <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanRAN7&langs_count=10&layout=compact" />
 <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api?username=AlanRAN7&show_icons=true&hide_border=true" />
+<br>
+<br>
 <br>
 <br>
 <br>
