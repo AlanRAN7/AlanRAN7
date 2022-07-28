@@ -126,5 +126,5 @@ const AlanRAN7 = {
 
 <hr>
 <br>
-*we're dying to live and we're living to die*
-- Bring Me The Horizon
+<!-- *we're dying to live and we're living to die*
+- Bring Me The Horizon -->
