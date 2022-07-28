@@ -123,3 +123,8 @@ const AlanRAN7 = {
 <h3>🎶 Spotify Playing 🎶</h3>
 
 [<img src = "https://spotify-now-playing-4lr0d7.vercel.app/api/spotify" alt = "4lr0d7 | Spotify Now Playing" width = "350" />](https://open.spotify.com/user/22adehx4nsa3lsjxutxtwmhma)
+
+<hr>
+<br>
+*we're dying to live and we're living to die*
+- Bring Me The Horizon
