@@ -122,7 +122,7 @@ const AlanRAN7 = {
 <hr>
 <h3>🎶 Spotify Playing 🎶</h3>
 
-[<img src = "https://spotify-now-playing-4lr0d7.vercel.app/api/spotify" alt = "4lr0d7 | Spotify Now Playing" width = "350" />](https://open.spotify.com/user/22adehx4nsa3lsjxutxtwmhma)
+[<img src = "https://spotify-now-playing-4lr0d7.vercel.app/api/spotify" alt = "4lr0d7 | Spotify Now Playing" width = "350" />](https://open.spotify.com/user/315eyuradayohf5zm2gud4ekotcy)
 
 <hr>
 <br>
