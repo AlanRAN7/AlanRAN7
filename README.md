@@ -35,11 +35,6 @@ const basic_info = {
     favorite_podcast: "Café Infinito",
 }
 ```
-<h4>Future Projects (In Spanish Language)</h4>
-<ul>
-    <li>Youtube Channel - <a href = "https://youtube.com/channel/UCNLchiI0VAz9SX_RFXLmvRg" style = "">Zavniex</a>: A channel about critics of the pop culture and information about horror movies and The Walking Dead Universe (short & long videos)</li>
-    <li>Youtube Channel - <a href = "https://youtube.com/channel/UCncMqcMYKxTphd5P0C8_LSw" style = "">Equinox or ZavniexDev</a>: A channel about Web Development and UI Design (mainly shorts)</li>
-</ul>
 <h3>📱 Languages & Tools: Sorted by JavaScript 📱</h3>
 
 ```JS
@@ -108,8 +103,8 @@ const AlanRAN7 = {
 <hr>
 
 <h2>📈 Github Stats 📉</h2>
-<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanRAN7&langs_count=10&layout=compact" />
-<img width="48%" align="right" src="https://github-readme-stats.vercel.app/api?username=AlanRAN7&show_icons=true&hide_border=true" />
+<!-- ><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanRAN7&langs_count=10&layout=compact" />
+<img width="48%" align="right" src="https://github-readme-stats.vercel.app/api?username=AlanRAN7&show_icons=true&hide_border=true" /> <--->
 <br>
 <br>
 <br>
