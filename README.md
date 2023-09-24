@@ -103,8 +103,8 @@ const AlanRAN7 = {
 <hr>
 
 <h2>📈 Github Stats 📉</h2>
-<!-- ><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanRAN7&langs_count=10&layout=compact" />
-<img width="48%" align="right" src="https://github-readme-stats.vercel.app/api?username=AlanRAN7&show_icons=true&hide_border=true" /> <--->
+<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanRAN7&langs_count=10&layout=compact" />
+<img width="48%" align="right" src="https://github-readme-stats.vercel.app/api?username=AlanRAN7&show_icons=true&hide_border=true" /> 
 <br>
 <br>
 <br>
@@ -115,10 +115,9 @@ const AlanRAN7 = {
 <br>
 <br>
 <hr>
-<h3>🎶 Spotify Playing 🎶</h3>
-
+<!-- <h3>🎶 Spotify Playing 🎶</h3>
 [<img src = "https://spotify-now-playing-4lr0d7.vercel.app/api/spotify" alt = "4lr0d7 | Spotify Now Playing" width = "350" />](https://open.spotify.com/user/315eyuradayohf5zm2gud4ekotcy)
-
+-->
 <hr>
 <br>
 <!-- *we're dying to live and we're living to die*
